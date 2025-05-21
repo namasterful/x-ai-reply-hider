@@ -3,7 +3,7 @@
   "name": "X AI Reply Hider",
   "version": "1.0.0",
   "description": "A simple extension that allows you to hide posts to and from AI chatbots on X",
-  "permissions": ["storage", "scripting", "activeTab"],
+  "permissions": ["storage"],
   "host_permissions": ["https://x.com/*", "https://twitter.com/*"],
   "action": {
     "default_popup": "popup.html",
